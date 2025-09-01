@@ -2,6 +2,7 @@
 #include<iostream>
 #include<algorithm>
 #include<string>
+//best code
 using namespace std;
 #define ld long double
 #include <iomanip>
